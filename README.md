@@ -17,12 +17,19 @@
 
 ## Stack
 
+### DevSecOps & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,docker,kubernetes,terraform,jenkins,githubactions,bitbucket,aws,python,bash,powershell,git,ansible,debian,ubuntu&theme=dark&perline=8" alt="DevSecOps & Cloud" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,docker,kubernetes,terraform,jenkins,githubactions,bitbucket,aws,azure,gcp,python,bash,powershell,git,ansible,debian,ubuntu,cloudflare&theme=dark&perline=10" alt="DevSecOps & Cloud" />
 </p>
 
+### Security & Pentesting
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,nginx,elasticsearch,vscode,github,gitlab,cloudflare,postgres,redis,vim,nodejs&theme=dark&perline=8" alt="Observability & Tools" />
+  <img src="https://skillicons.dev/icons?i=kali,burp,wireshark,nmap,metasploit,owasp,sonarqube,snyk,trivy,ethical,pentest,hacking,security,cybersecurity,shield,lock,openssl,vault,hashicorp,wazuh,splunk,suricata,zeek,crowdstrike&theme=dark&perline=10" alt="Security & Pentesting" />
+</p>
+
+### Observability & Infra
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,nginx,postgres,redis,vscode,github,gitlab,vim&theme=dark&perline=10" alt="Observability & Infra" />
 </p>
 
 ---
