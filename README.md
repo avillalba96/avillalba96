@@ -2,10 +2,6 @@
 
 # Alejandro Villalba
 
-**DevSecOps · AI-powered Security · Cybersecurity**
-
-*On-prem & cloud · Security-first · Automation*
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-avillalba.com.ar-4285f4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://avillalba.com.ar/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-avillalba96-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avillalba96/)
 
